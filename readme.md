@@ -11,3 +11,9 @@ docker-compose build
 ```bash
 docker-compose up -d
 ```
+
+## Entering UI
+
+```
+http://localhost:5601
+```
